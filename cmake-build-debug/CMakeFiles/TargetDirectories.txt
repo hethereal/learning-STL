@@ -1,3 +1,0 @@
-E:/ProgrammingLang/CppSTL/cmake-build-debug/CMakeFiles/CppSTL.dir
-E:/ProgrammingLang/CppSTL/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/ProgrammingLang/CppSTL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
